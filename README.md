@@ -13,7 +13,6 @@ npm i to install dependencies
 2.npm start run
 ```
 ## Gitgub Pages
-```
-[Google](https://www.google.com)
 
-```
+[PasswordChecker](http://potchakik.github.io/passwordStrengthChecker/)
+
