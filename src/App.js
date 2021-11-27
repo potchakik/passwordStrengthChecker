@@ -19,6 +19,7 @@ function App() {
   };
 
   const passwordStrength = async (e) => {
+    e.preventDefault()
     const res = await axios({
       method: "post",
       url: "https://o9etf82346.execute-api.us-east-1.amazonaws.com/staging/password/strength",
