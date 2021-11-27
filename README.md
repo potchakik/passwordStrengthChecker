@@ -14,5 +14,6 @@ npm i to install dependencies
 ```
 ## Gitgub Pages
 ```
- http://potchakik.github.io/passwordStrengthChecker/
+[PasswordChecker](http://potchakik.github.io/passwordStrengthChecker/) Hosted by git-pages
+
 ```
