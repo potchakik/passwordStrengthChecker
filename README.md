@@ -12,3 +12,7 @@ npm i to install dependencies
 1.Clone the repo
 2.npm start run
 ```
+## Gitgub Pages
+```
+ http://potchakik.github.io/passwordStrengthChecker/
+```
